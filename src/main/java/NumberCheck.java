@@ -17,9 +17,6 @@ public class NumberCheck {
     public static void main(String[] args) {
 
         NumberCheck obj = new NumberCheck();
-
-        System.out.println(obj.checkNumber(10));
-        System.out.println(obj.checkNumber(-5));
         System.out.println(obj.checkNumber(0));
     }
 }
